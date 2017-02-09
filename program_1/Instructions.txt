@@ -1,0 +1,31 @@
+
+1 - Create a variable and capture input
+
+2 - Create a Separate var for each piece of input
+
+3 - Add an alert to tell the visitor that they're finished
+
+4 - Combine the input with other strings to create a message
+
+5 - Print the Story to the Browser window
+
+
+Hi (name) This is a great tool for you to learn (programing language). I hope that this impresses you I think it should!
+Does it? (answer).
+
+
+
+1 - Calculate how many seconds you have been alive using numbers
+
+2 - Go one step further and prompt the user to enter their age allowing for the calculation to be individual per person.;
+
+
+
+create a Random Number Generator!
+See if you can build a program that collects a number from a user, then prints out a random number from 1 to the number the user selects. Now is the opportunity to practice using some of the commands you learned in this course.
+
+Don't forget some commands you've learned so far!
+
+prompt() dialogue to collect user input
+parseInt() function to convert the input to an integer
+Math.random() method to create a random number
